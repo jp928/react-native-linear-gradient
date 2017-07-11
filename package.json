@@ -1,5 +1,5 @@
 {
-  "name": "react-native-linear-gradient",
+  "name": "@2hats/react-native-linear-gradient",
   "version": "2.0.0",
   "description": "A <LinearGradient> element for react-native",
   "main": "index",
